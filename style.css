@@ -1,0 +1,25 @@
+.heading{
+    width: 100%;
+    margin-top: 0px;
+}
+
+.big_mario{
+    width: 100%;
+}
+
+h4{
+    text-align: center;
+    background-color: aqua;
+    margin: 0px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+video{
+    background:url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
